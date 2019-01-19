@@ -1,7 +1,7 @@
 package sqlite
 
 import (
-	"github.com/chuckha/ttaal/storage"
+	"github.com/chuckha/modeler/storage"
 )
 
 type queryBuilder struct {
